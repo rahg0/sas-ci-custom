@@ -16,6 +16,4 @@ rules:
     pattern: |
       crypto.set_secret_key(...)
 
-    paths:
-      include:
-        - "**/*.js"
+
